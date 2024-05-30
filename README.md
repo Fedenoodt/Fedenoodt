@@ -1,14 +1,12 @@
 <h3 align="center">A passionate developer from Buenos Aires, Argentina.</h3>
 
-- 🌱 I’m currently learning **Professional Full Stack Developer**
-
-- 🤝 I’m looking for help with **Learn anything more about React**
+- 🤝 I’m looking for help with **Learn anything more about Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fedenoodt?tab=repositories](https://github.com/Fedenoodt?tab=repositories)
 
 - 📝 I regularly write articles on [https://fedenoodt.github.io/Pagina_personal/vida/inicio.html](https://fedenoodt.github.io/Pagina_personal/vida/inicio.html)
 
-- 💬 Ask me about **HTML, CSS, and Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, ReactJS, Angular, and NodeJS.**
 
 - 📫 How to reach me **fedenoodtmolins@gmail.com**
 
